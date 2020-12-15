@@ -29,7 +29,7 @@ TRAFFIC MONITORING SYSTEM - TEAM 8
 	</tr>
 	<tr>
 		<td>CSE19016</td>
-		<td> Vehicle, TrafficViolationLog, AccidentLog</td>
+		<td> Vehicle, AccidentLog</td>
 	</tr>
 	<tr>
 		<td>CSE19017</td>
@@ -41,7 +41,7 @@ TRAFFIC MONITORING SYSTEM - TEAM 8
 	</tr>
 	<tr>
 		<td>CSE19023</td>
-		<td>Controller, Main, Logs </td>
+		<td>Controller, Main, Logs , TrafficViolationLog,</td>
 	</tr>
 	<tr>
 		<td>CSE19058</td>
